@@ -7,5 +7,5 @@ Repository containing tasks involved in the Data Science and Business Analytics 
 1. Predict the percentage of marks of an student based on the number of study hours.
 2. This is linear regression task.             
 3. Data can be found at http://bit.ly/w-data
-4. What will be predicted score if a student studies for 9.25 hrs/ day?
+4. What will be predicted score if a student studies for 9.25 hrs day?
 

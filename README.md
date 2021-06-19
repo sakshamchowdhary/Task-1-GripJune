@@ -11,4 +11,4 @@ Repository containing tasks involved in the Data Science and Business Analytics 
 1. From the given ‘Iris’ dataset, predict the optimum number of clusters
 and represent it visually.
 2. Dataset : https://bit.ly/3kXTdox
-
+3. Used K-Means algorithm and Elbow method
